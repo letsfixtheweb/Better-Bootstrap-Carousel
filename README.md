@@ -5,7 +5,7 @@ Transform your Twitter Boostrap Carousel with sleeker controls. Removes the stan
 
 Add the CSS file you want to use under the Bootstrap CSS files in your HTML.
 
-For a demo and more info check out [LetsFixTheWeb](http://tmblr.co/Zx43KslQv8sr)
+For a demo and more info check out [LetsFixTheWeb](http://tmblr.co/Zx43KslR1DcO)
 
 [@haydennedyah](http://twitter.com/haydennedyah)
 
